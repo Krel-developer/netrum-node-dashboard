@@ -1,0 +1,1 @@
+{"success":true,"requirements":{"RAM":4,"CORES":2,"STORAGE":50,"DOWNLOAD_SPEED":5,"UPLOAD_SPEED":5},"syncCooldown":300000,"syncBuffer":2000,"effectiveCooldown":298000,"notes":{"RAM":"Value in GB, will be converted to MB (x1024) for comparison","syncCooldown":"Minimum time between syncs in milliseconds","syncBuffer":"Buffer applied to cooldown for network delays"}}
